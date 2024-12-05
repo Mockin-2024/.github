@@ -24,6 +24,7 @@ Mockin은 [한국투자증권에서 제공하는 오픈 API](https://apiportal.k
 앱을 활용해보고 싶으신 분은 [다음 링크](https://github.com/Mockin-2024/frontend/releases)에서 다운받으실 수 있으며, 현재는 안드로이드만 지원합니다.<br/>
 이용 시 KIS API에서 모의투자 및 실전 투자용 API 키를 발급받아 등록하는 과정이 필요하니,
 [이 페이지](https://apiportal.koreainvestment.com/howto-use)를 참고해주세요.
+등록하지 않을 경우 서비스 이용이 어렵습니다.
 
 로그인 시 KIS API에 등록된 SNS로 OpenAPI 접근 토큰 발급 메세지를 받을 수 있습니다.<br/>
 오픈API 접근 토큰의 경우 '현재가 10호가'와 같이 실전 도메인에서만 활용가능한 API를 위한 것으로,<br/>
